@@ -1,0 +1,1 @@
+docker run -d -p 8081:8000 go_rest_sample:latest
